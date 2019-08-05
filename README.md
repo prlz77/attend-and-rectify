@@ -1,6 +1,8 @@
 # Pay attention to the activations a modular attention mechanism for fine grained image recognition
 **Attend and Rectify: a gated attention mechanism for fine-grained recovery**
 
+[arxiv](https://arxiv.org/abs/1907.13075)
+
 Contents:
 ```
 ./logs
@@ -18,7 +20,7 @@ Usage:
 2. ./scripts/your_script.sh (edit to set dataset paths, etc)
 
 Requirements:
-1. The code requires pytorch 0.4
+1. The code requires pytorch >= 0.4
 
 
 ## Cite
