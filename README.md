@@ -22,7 +22,7 @@ Requirements:
 
 
 ## Cite
-This work has been published at IEEE Transctions of Multimedia as an extension of a former paper presented at ECCV:
+This work has been published at IEEE Transactions of Multimedia as an extension of a former paper presented at ECCV:
 
 ```
 @ARTICLE{8762109, 
